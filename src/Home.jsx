@@ -44,7 +44,7 @@ export default function Home() {
       </nav>
 
       {/* HERO CONTENT */}
-      <div className="flex flex-col justify-center flex-1 px-10 mb-20">
+      <div className="flex flex-col justify-center items-center flex-1 px-10 mb-20  text-center">
         <h1 className="text-8xl lg:text-[150px] font-bold tracking-tight leading-none font-main">
           Git-Busted
         </h1>
